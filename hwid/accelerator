@@ -1,5 +1,5 @@
 #broadcast|腾讯加载报错多刷新几次试试, 并没有失效
-#invalid|Unauthorised hardware(最新版本换了硬件识别码算法, 需要重新注册)
+#invalid|Unauthorised hardware\n 近期在更新硬件识别码的算法以尝试避免莫名其妙识别码就变了的问题, 如果出现硬件被拒绝, 找我更新授权就行
 #outdated|补丁已更新至v4, 更新版本请
 #version|4
 f9220557be936cd9ec951d45e8bfa2f3af83bf01c01d859ea1822c2289cf846e|Dev
