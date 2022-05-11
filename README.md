@@ -19,3 +19,5 @@ Forge 1.12.2 -> `hidepassword-1.0-1.12.2-SNAPSHOT.jar`
 - .l
 - .register
 - .reg
+
+> 1.12.2的版本使用了兼容性更好的实现方式, 但是有点渲染bug (能用就行
