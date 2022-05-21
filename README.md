@@ -8,16 +8,4 @@
 
 主要用于直播\
 Forge 1.8 -> `hidepassword-1.0.0.jar` \
-Forge 1.12.2 -> `hidepassword-1.0-1.12.2-SNAPSHOT.jar` 
-
-支持命令列表:
-- /login
-- /l
-- /register
-- /reg
-- .login
-- .l
-- .register
-- .reg
-
-> 1.12.2的版本使用了兼容性更好的实现方式, 但是有点渲染bug (能用就行
+Forge 1.12.2 -> [Repo](https://github.com/SakuraKoi/HidePassword)
