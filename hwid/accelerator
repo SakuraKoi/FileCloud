@@ -1,9 +1,8 @@
-#broadcast|提示登录直接点扫码就进去了 第一次崩溃是正常情况再试一次就行
+#broadcast|注册个账号微信绑定获赠3小时时长, 然后补丁无限使用
 #commented|Hao yeah! (叉腰
 #invalid|Unauthorised hardware
-#outdated|补丁已更新至[ v12-Tencent ], 更新版本请
-#version|12
-#bypass_enabled|[认证已禁用] 腾讯加速器要停服了 开放使用随便玩吧
+#outdated|补丁已更新至[ v13-LX ], 更新版本请
+#version|13
 40a3f599a95917d53ad27b6a11d550003df5e7473b841d6847f84b211c54e573|SakuraKooi
 f995283d394fbeb94067c94acc1f8f2f6be6479fc7b3f397abe215cc2fdb6328|小樱花w
 
