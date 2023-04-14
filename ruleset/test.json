@@ -1,5 +1,6 @@
 {
-	"enableExternalController": true,
-	"enableIpv6": true,
+	"externalController": true,
+	"ipv6": true,
+	"encryptedDns": true,
 	"assignCountryLabel": true
 }
