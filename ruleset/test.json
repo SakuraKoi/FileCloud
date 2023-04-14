@@ -1,1 +1,5 @@
-{}
+{
+	"enableExternalController": true,
+	"enableIpv6": true,
+	"assignCountryLabel": true
+}
